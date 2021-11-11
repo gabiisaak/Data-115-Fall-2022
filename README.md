@@ -1,9 +1,15 @@
 # Data-115-Fall-2022
 visualization
+
+
 [caption label](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/data115%20fish.png)
 
 
+This shows the differnt habit types and how many times they show up in the data. 
 
-This shows the count number of the differnt habit types. 
+
 [caption label](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/data115%20fish1.png)
+
+
+This shows the relshinship between the min and max depth the fish was found in and the habit habit type.
 
