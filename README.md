@@ -2,7 +2,7 @@
 visualization
 
 
-[caption label](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/data115%20fish.png)
+[caption label](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/fish%20habit.png)
 
 
 This shows the differnt habit types and how many times they show up in the data. 
