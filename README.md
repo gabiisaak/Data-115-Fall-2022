@@ -15,13 +15,14 @@ To start off with I downloaded my dataset into an excle file from National Ocean
 visualizations should follow the principles of good figure design and be sufficiently documented to
 explain what they are demonstrating.
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hab.%20Num..png)
-This bar chart shows the count of the differnt habit types. It is to show how common the differnt habit types are. as you can see "" and "" are by far the most common.
+
+This bar chart shows the count of the differnt habit types. It is to show how common the differnt habit types are. as you can see Rock/Boulder and Aggregate Reef are by far the most common.
 
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Wat.%20Dep.%20Hab..png)
 This chart shows the relation od the min and max deth that the fish was found in in relation to the habit type. It shows a liner relaship between the min and max depth with a little varinaces in the lower min depth. There is not an obvisy relashiption between the habit type and min or max depth.
 
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Size%20Num..png)
-The bar chart shows the frequncey of the size of fish in the dataset. As show the majorty of the fish are from the size "" to "". The tail end of this chart included sharks, rays, and other bigger fish that are less common to see.
+The bar chart shows the frequncey of the size of fish in the dataset. As show the majorty of the fish are from the size 0 to 20. The tail end of this chart included sharks, rays, and other bigger fish that are less common to see.
 
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hard%20Hab.png)
 
