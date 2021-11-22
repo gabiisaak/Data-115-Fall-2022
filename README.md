@@ -18,7 +18,7 @@ explain what they are demonstrating.
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hard%20Hab.png)
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Size%20Hab.png)
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Size%20Num..png)
-![alt text]()
+![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Wat.%20Dep.%20Hab..png)
 
 •Analysis: Finally, the ReadMe should describe the results of at least one method from this course
 that you applied to the dataset and what you learned from it. This can be anything from a simple EDA
