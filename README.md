@@ -15,7 +15,7 @@ To start off with I downloaded my dataset into an excle file from National Ocean
 visualizations should follow the principles of good figure design and be sufficiently documented to
 explain what they are demonstrating.
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hab.%20Num..png)
-![alt text]()
+![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hard%20Hab.png)
 ![alt text]()
 ![alt text]()
 ![alt text]()
