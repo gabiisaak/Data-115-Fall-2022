@@ -16,7 +16,7 @@ visualizations should follow the principles of good figure design and be suffici
 explain what they are demonstrating.
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hab.%20Num..png)
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hard%20Hab.png)
-![alt text]()
+![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Size%20Hab.png)
 ![alt text]()
 ![alt text]()
 
