@@ -27,7 +27,7 @@ To start off with I downloaded my dataset into an excle file from National Ocean
 •Visualization: The ReadMe should contain at least one visualization summarizing the data. The
 visualizations should follow the principles of good figure design and be sufficiently documented to
 explain what they are demonstrating.
-
+![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hab.%20Num..png)
 
 •Analysis: Finally, the ReadMe should describe the results of at least one method from this course
 that you applied to the dataset and what you learned from it. This can be anything from a simple EDA
