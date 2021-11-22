@@ -17,7 +17,7 @@ explain what they are demonstrating.
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hab.%20Num..png)
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hard%20Hab.png)
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Size%20Hab.png)
-![alt text]()
+![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Size%20Num..png)
 ![alt text]()
 
 •Analysis: Finally, the ReadMe should describe the results of at least one method from this course
