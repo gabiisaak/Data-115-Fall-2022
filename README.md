@@ -1,17 +1,4 @@
 # Data-115-Fall-2022
-visualization
-
-
-[caption label](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/fish%20habit.png)
-
-
-This shows the differnt habit types and how many times they show up in the data. 
-
-
-[caption label](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/fish%20depth.png)
-
-
-This shows the relshinship between the min and max depth the fish was found in and the habit habit type.
 
 Motivation: You should describe the question you set out to answer at the start of the project or
 what led you to the specific dataset that you selected.
@@ -28,6 +15,10 @@ To start off with I downloaded my dataset into an excle file from National Ocean
 visualizations should follow the principles of good figure design and be sufficiently documented to
 explain what they are demonstrating.
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hab.%20Num..png)
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
 
 •Analysis: Finally, the ReadMe should describe the results of at least one method from this course
 that you applied to the dataset and what you learned from it. This can be anything from a simple EDA
