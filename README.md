@@ -39,4 +39,4 @@ The results of Tukey's five numbers were many means that were to be expected and
 This led me to also look into the outliers to see if it was an incorrect entry or an unnecessary one to include. 
 The result of looking at the outliers is that none of them were miss entered. 
 A few of them were not single max numbers but a group with the same number. 
-The outliers in size were a shark and a manta ray that are expected to be significant.
+The outliers in size were a shark and a manta ray that are expected to be significantly bigger.
