@@ -34,7 +34,7 @@ The graph displays the relation of the percentage of hard coral found by the fis
 ## Analysis: 
 The two methods that I ran on this dataset were Tukey's five numbers and identifying outliers. 
 I choose to do Tukey's five numbers to get an overall better idea of what the data contains. 
-With the dataset being 23000+ rows, this was an import, so I knew what the data should come out to and what to expect. 
+With the dataset being 23000+ rows, this was important so I knew what the data should come out to and what to expect. 
 The results of Tukey's five numbers were many means that were to be expected and a few max numbers that brought some concern. 
 This led me to also look into the outliers to see if it was an incorrect entry or an unnecessary one to include. 
 The result of looking at the outliers is that none of them were miss entered. 
