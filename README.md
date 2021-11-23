@@ -21,7 +21,7 @@ This chart shows the relation of the min and max depth that the fish was found c
 
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Size%20Num..png)
 
-The bar chart shows the frequency of the size of fish in the dataset. As a show, the majority of the fish are from the size 0 to 20. The tail end of this chart included sharks, rays, and other bigger fish that are less common to see.
+The bar chart shows the frequency of the size of fish in the dataset. As shown, the majority of the fish are from the size 0 to 20. The tail end of this chart included sharks, rays, and other bigger fish that are less common to see.
 
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Size%20Hab.png)
 
