@@ -29,7 +29,7 @@ The chart above displays the relation between the size of the fish and the depth
 
 ![alt text](https://raw.githubusercontent.com/gabiisaak/Data-115-Fall-2022/main/Hard%20Hab.png)
 
-The graph displays the relation of the percentage of hard coral found by the fish and the size of the fish with relation to the habit type. The higher the percentage of hard coral, the more come the different types of reefs for habit type show up with Aggregate Reef being the most present. Another thing the graph shows is that the bigger the fish is, the more likely its habit type is either Aggregate Reef or Rock/Boulder, which is not surprising, with those two being the most common habit type.
+The graph displays the relation of the percentage of hard coral found by the fish and the size of the fish with relation to the habit type. The higher the percentage of hard coral, the more common different types of reefs for habit type show up with Aggregate Reef being the most present. Another thing the graph shows is that the bigger the fish is, the more likely its habit type is either Aggregate Reef or Rock/Boulder, which is not surprising, with those two being the most common habit type.
 
 ## Analysis: 
 The two methods that I ran on this dataset were Tukey's five numbers and identifying outliers. 
